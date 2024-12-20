@@ -12,6 +12,10 @@ input {
     padding: 5px;
 }
 
+#gradeForm input {
+    margin-right: 10px;
+}
+
 button {
     padding: 5px;
 }
